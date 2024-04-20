@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dagyepong
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Data Science and Cybersecurity
-- 💞️ I’m looking to collaborate on cybersecurity projects
+- 👀 Cyber-Security Analyst
+- 🌱 Tech Enthusiast
+- 💞️ Homelab Lover
 
 
 <!---
