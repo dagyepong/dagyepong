@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dagyepong" alt="dagyepong" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nana" target="blank"><img src="https://img.shields.io/twitter/follow/nana?logo=twitter&style=for-the-badge" alt="nana" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@owarenana06" target="blank"><img src="https://img.shields.io/twitter/follow/nana?logo=twitter&style=for-the-badge" alt="nana" /></a> </p>
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
