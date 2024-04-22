@@ -1,39 +1,88 @@
-<h1 align="center">Hi 👋, I'm Nana</h1>
-<h3 align="center">A passionate Linux Enthusiast from 🇬🇭</h3>
+hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Dennis Agyepong
+=========================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dagyepong&label=Profile%20views&color=0e75b6&style=flat" alt="dagyepong" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=But+my+friends+call+me+Nana.)](https://github.com/sponsors/heyValdemar)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dagyepong" alt="dagyepong" /></a> </p>
+![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<p align="left"> <a href="https://twitter.com/@owarenana06" target="blank"><img src="https://img.shields.io/twitter/follow/nana?logo=twitter&style=for-the-badge" alt="nana" /></a> </p>
+🧩 I’ve been in the IT game for over 5 years, and using Linux has really been great so far! These days, I wear the hat of a Cyber Security Analyst, but what really gets me going is Docker and container technology. Can't say much but the tech is truly an obsession!
 
-- 🌱 I’m currently learning **Ethical Hacking**
+🧩 I have my own IT [blog](https://tech.nanaoware.online/), where I share knowledge with enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they’re foolproof!) that help even newbies deploy and manage complex IT solutions.
 
-- 👯 I’m looking to collaborate on **Security Projects**
+🧩 My dream is to become a certified ethical hacker, and empower every single person in the tech community to safeguard their digital footprints.
+ I’m stoked to share my knowledge, experiences, and a good dose of passion for the tech. My aim is to encourage learning, innovation, and growth, and to inspire the next generation of IT whizz-kids to push Docker and container tech to its limits.
 
-- 👨‍💻 All of my projects are available at [GitHub.com/dagyepong](GitHub.com/dagyepong)
+Let’s do this together!
 
-- 📝 I regularly write articles on [https://tech.nanaoware.online](https://tech.nanaoware.online)
+🌐 Check out my [website](https://tech.nanaoware.online) with extremely detailed IT guides\
+💬 Join me on [Discord](https://discord.com/.nana12)
 
-- 💬 Ask me about **Homelab, Linux related Stuff**
+# Some of My Favorites Tools and Services
 
-- 📫 How to reach me **HTTPS://card.nanaoware.online**
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,md,bash,powershell,ansible,py,go,nodejs,aws,azure,gcp,netlify,docker,kubernetes,openshift,openstack,dynamodb,mongodb,redis,postgres,mysql,github,gitlab,grafana,prometheus,jenkins,maven,nginx,prisma,figma,html,css,wordpress,gatsby,ps,pr,ae,unity,unreal,androidstudio,vim,neovim,atom,vscode)](https://github.com/dagyepong)
 
-- 📄 Know about my experiences [https://card.nanaoware.online](https://card.nanaoware.online)
+# My Specs
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@nana50965112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nanaoware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nanaoware" height="30" width="40" /></a>
-<a href="https://fb.com/nanaoware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nanaoware" height="30" width="40" /></a>
-<a href="https://instagram.com/@oware84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nanaoware" height="30" width="40" /></a>
-</p>
+```yaml
+apiVersion: v47
+kind: Human
+metadata:
+  name: Dennis Agyepong
+spec:
+  purpose: Help others safegaurd their digital footprints!
+  sponsorship: patreon.com/Linuxpad
+  locations:
+    - 
+      type: Homepage
+      where: https://tech.nanaoware.com
+    - 
+      type: Discord Server
+      where: discord.com/.nana
+    -
+      type: Twitter
+      where: twitter.com/@owarenana06
+  favorites:
+    number: 7
+    animal: 🪼
+    emoji: 😉
+    food: 🍏
+    drink: 🍹
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+# My Recommendations
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Linuxpad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Linuxpad" /></a><a href="https://ko-fi.com/Linuxpad"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Linuxpad" /></a></p><br><br>
+📕 Check out my collection of [Homelab Tutorials](https://tech.nanaoware.online)\
+🖥️ Check out my [studio streaming and recording kit](https://kit.co/heyValdemar/my-studio-streaming-and-recording-kit)\
+📡 Check out my [streaming starter kit](https://kit.co/heyValdemar/streaming-starter-kit)
+
+# Follow Me
+
+🎬 Follow me on [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
+🐦 Follow me on [Twitter](https://twitter.com/@owarenana06)\
+🎨 Follow me on [Instagram](https://www.instagram.com/@oware84)\
+🐘 Follow me on [Mastodon](https://mastodon.social/@heyvaldemar)\
+🎸 Follow me on [Facebook](https://www.facebook.com/nanaoware)\
+🎥 Follow me on [TikTok](https://www.tiktok.com/@nanaoware)\
+💻 Follow me on [LinkedIn](https://www.linkedin.com/nanaoware)\
+🐈 Follow me on [GitHub](https://github.com/dagyepong)
+
+# Communication
+
+👾 Chat with IT pros on [Discord](https://discord.gg/.nana)\
+📧 Reach me at owarenana06@gmail.com
+
+# Give Thanks
+
+💎 Support on [GitHub](https://github.com/dagyepong)\
+🏆 Support on [Patreon](https://www.patreon.com/Linuxpad)\
+🥤 Support on [BuyMeaCoffee](https://www.buymeacoffee.com/Linuxpad)\
+🍪 Support on [Ko-fi](https://ko-fi.com/Linuxpad)\
+💖 Support on [PayPal](https://www.paypal.com/paypalme/Linuxpad)
+
+# My GitHub Stats
+
+### GitHub Streak
+<div align="center">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagyepong&show_icons=true&locale=en&layout=compact" alt="dagyepong" /></p>
 
@@ -41,3 +90,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagyepong&" alt="dagyepong" /></p>
 
+</div>
+
+<div align="center">
+
+### Show some 💜 by starring some of the [repositories](https://github.com/dagyepong)!
+
+![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
+
+</div>
+
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
