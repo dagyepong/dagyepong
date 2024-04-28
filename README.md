@@ -52,7 +52,7 @@ spec:
 # My Recommendations
 
 📕 Check out my collection of [Homelab Tutorials](https://tech.nanaoware.online)\
-🖥️ Check out my [studio streaming and recording kit](https://kit.co/heyValdemar/my-studio-streaming-and-recording-kit)\
+📄 Check out my [Documentation Page](https://doc.nanaoware.online)\
 📡 Check out my [streaming starter kit](https://kit.co/heyValdemar/streaming-starter-kit)
 
 # Follow Me
