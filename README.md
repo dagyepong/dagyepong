@@ -71,6 +71,10 @@ spec:
 👾 Chat with IT pros on [Discord](https://discord.gg/.nana)\
 📧 Reach me at owarenana06@gmail.com
 
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/owarenana06/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
 # Give Thanks
 
 💎 Support on [GitHub](https://github.com/dagyepong)\
