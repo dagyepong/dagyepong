@@ -14,7 +14,150 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
 /> 
 
+# <b>Languages and Tools ⚙:-</b>
+<p align="left">
+<!-- vs code -->
+ <a 
+    href="https://code.visualstudio.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+        alt="VS code" width="40" height="40"
+    /> 
+ </a> 
+ <!-- eclipse -->
+ <a 
+    href="https://www.eclipse.org"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/Eclipse Icon.png"
+        alt="eclipse" width="40" height="40"
+    /> 
+ </a> 
+ <!-- android studio -->
+<a 
+    href="https://developer.android.com/studio"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"
+        alt="android studio" width="40" height="40"
+    /> 
+ </a> 
+ <!-- c -->
+ <a
+    href="https://www.cprogramming.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+        alt="c" width="40" height="40"
+    /> 
+ </a> 
+ <!-- cpp -->
+ <a 
+    href="https://isocpp.org/"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+        alt="cplusplus" width="40" height="40"
+    /> 
+ </a> 
+ <!-- csharp -->
+ <a 
+    href="https://docs.microsoft.com/en-us/dotnet/csharp/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+        alt="java" width="40" height="40"
+    /> 
+ </a> 
+ <!-- java -->
+ <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+        alt="java" width="40" height="40"
+    /> 
+ </a> 
+ <!-- kotlin -->
+ <a 
+    href="https://kotlinlang.org/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
+        alt="kotlin" width="40" height="35"
+    /> 
+ </a> 
+ <!-- android -->
+    <a 
+        href="https://developer.android.com/" 
+        target="_blank" rel="noreferrer"> 
+        <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg"
+            alt="android" width="40" height="40"
+        />
+ <!-- git -->
+ <a 
+    href="https://git-scm.com/"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
+        width="40" height="40"
+    /> 
+ </a> 
+ <!-- dart -->
+ <a 
+    href="https://dart.dev/" 
+    target="_blank" rel="noreferrer"> 
+    <img    
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
+        alt="dart" width="40" height="40"
+    /> 
+ </a> 
+ <!-- flutter -->
+ <a 
+    href="https://flutter.dev/" 
+    target="_blank" rel="noreferrer"> 
+    <img    
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+        alt="flutter" width="40" height="40"
+    /> 
+ </a> 
+ <!-- google cloud -->
+    <a 
+        href="https://cloud.google.com/" 
+        target="_blank" rel="noreferrer"> 
+        <img    
+            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+            alt="google cloud" width="40" height="40"
+        />
+ <!-- azure -->
+ <a
+    href="https://azure.microsoft.com/en-in/" 
+    target="_blank" 
+    rel="noreferrer"> 
+    <img
+        src=https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg
+        alt="azure" width="40" height="40"/> 
+ </a> 
+ <!-- SQL
+ <a 
+    href="https://www.mysql.com/"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql" width="40" height="40"
+    /> 
+ </a>  -->
+</p> 
 
+<br>
+
+<!-- # <b>Hacktober Fest 2022</b>
+[![@rish2804's Holopin board](https://holopin.io/api/user/board?user=rish2804)](https://holopin.io/@rish2804)
+
+---
+<br> -->
 
 # <b>Connect with me@ :-</b>
 <p>
