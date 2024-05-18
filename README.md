@@ -1,3 +1,5 @@
+
+
 hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Dennis Agyepong
 =========================================================================================================================================
 
@@ -5,103 +7,68 @@ hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-🧩 I’ve been in the IT game for over 5 years, and using Linux has really been great so far! These days, I wear the hat of a Cyber Security Analyst, but what really gets me going is Docker and container technology. Can't say much but the tech is truly an obsession!
 
-🧩 I have my own IT [blog](https://tech.nanaoware.online/), where I share knowledge with enthusiasts who share my love for all things Docker, containers, and IT technologies in general. And to make sure everyone can jump on this awesome DevOps train, I write super detailed guides (seriously, they’re foolproof!) that help even newbies deploy and manage complex IT solutions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=I'm+an+aspiring+Pentester💻;I'm+a+Competitive+Programmer🏆;I'm+a+Learning+Enthusiast🧐;I'm+an+Open-Source+Advocate)](https://git.io/typing-svg)
 
-🧩 My dream is to become a certified ethical hacker, and empower every single person in the tech community to safeguard their digital footprints.
- I’m stoked to share my knowledge, experiences, and a good dose of passion for the tech. My aim is to encourage learning, innovation, and growth, and to inspire the next generation of IT whizz-kids to push Docker and container tech to its limits.
+<img width=380 align="right" alt="Github"
+src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" 
+/> 
 
-Let’s do this together!
 
-🌐 Check out my [website](https://tech.nanaoware.online) with extremely detailed IT guides\
-💬 Join me on [Discord](https://discord.com/.nana12)
 
-# Some of My Favorites Tools and Services
+# <b>Connect with me@ :-</b>
+<p>
+<!-- Github -->
+<a 
+    target="_blank" 
+    href="https://github.com/dagyepong">
+    <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    </img>    
 
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,md,bash,powershell,ansible,py,go,nodejs,aws,azure,gcp,netlify,docker,kubernetes,openshift,openstack,dynamodb,mongodb,redis,postgres,mysql,github,gitlab,grafana,prometheus,jenkins,maven,nginx,prisma,figma,html,css,wordpress,gatsby,ps,pr,ae,unity,unreal,androidstudio,vim,neovim,atom,vscode)](https://github.com/dagyepong)
+</a>
+<br>
+<!-- LinkedIn -->
+<a 
+    target="_blank"
+    href="https://www.linkedin.com/in/nanaoware/">
+    <img
+        src="https://img.shields.io/badge/-LinkedIn-0077D9?style=for-the-badge&logo=Linkedin&logoColor=white">
+    </img>
+</a>
+<!-- GMail -->
+<a 
+    target="_blank" 
+    href="mailto:owarenana06@gmail.com">
+    <img
+        src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+    </img>    
+</a>
+<!-- Twitter -->
+<a 
+    target="_blank" 
+    href="https://twitter.com/owarenana06">
+    <img
+        src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
+    </img>
+</a>
+</p>
 
-# My Specs
 
-```yaml
-apiVersion: v47
-kind: Human
-metadata:
-  name: Dennis Agyepong
-spec:
-  purpose: Help others safegaurd their digital footprints!
-  sponsorship: patreon.com/Linuxpad
-  locations:
-    - 
-      type: Homepage
-      where: https://tech.nanaoware.com
-    - 
-      type: Discord Server
-      where: discord.com/.nana
-    -
-      type: Twitter
-      where: twitter.com/@owarenana06
-  favorites:
-    number: 7
-    animal: 🪼
-    emoji: 😉
-    food: 🍏
-    drink: 🍹
-```
 
-# My Recommendations
-
-📕 Check out my collection of [Homelab Tutorials](https://tech.nanaoware.online)\
-📄 Check out my [Documentation Page](https://doc.nanaoware.online)\
-📡 Check out my [streaming starter kit](https://kit.co/heyValdemar/streaming-starter-kit)
-
-# Follow Me
-
-🎬 Follow me on [YouTube](https://www.youtube.com/channel/UCf85kQ0u1sYTTTyKVpxrlyQ?sub_confirmation=1)\
-🐦 Follow me on [Twitter](https://twitter.com/@owarenana06)\
-🎨 Follow me on [Instagram](https://www.instagram.com/@oware84)\
-🐘 Follow me on [Mastodon](https://mastodon.social/@heyvaldemar)\
-🎸 Follow me on [Facebook](https://www.facebook.com/nanaoware)\
-🎥 Follow me on [TikTok](https://www.tiktok.com/@nanaoware)\
-💻 Follow me on [LinkedIn](https://www.linkedin.com/nanaoware)\
-🐈 Follow me on [GitHub](https://github.com/dagyepong)
-
-# Communication
-
-👾 Chat with IT pros on [Discord](https://discord.gg/.nana)\
-📧 Reach me at owarenana06@gmail.com
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
 <a href="https://calendly.com/owarenana06/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-# Give Thanks
 
-💎 Support on [GitHub](https://github.com/dagyepong)\
-🏆 Support on [Patreon](https://www.patreon.com/Linuxpad)\
-🥤 Support on [BuyMeaCoffee](https://www.buymeacoffee.com/Linuxpad)\
-🍪 Support on [Ko-fi](https://ko-fi.com/Linuxpad)\
-💖 Support on [PayPal](https://www.paypal.com/paypalme/Linuxpad)
+ 
+---
+<br>
 
-# My GitHub Stats
-
-### GitHub Streak
-<div align="center">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dagyepong&show_icons=true&locale=en&layout=compact" alt="dagyepong" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dagyepong&show_icons=true&locale=en" alt="dagyepong" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dagyepong&" alt="dagyepong" /></p>
-
-</div>
-
-<div align="center">
-
-### Show some 💜 by starring some of the [repositories](https://github.com/dagyepong)!
-
-![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
-
-</div>
-
-![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
+ <!-- Spotify -->
+  <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7" 
+         alt="I love Spotify!"/>
+  </a>
+  
