@@ -160,18 +160,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 <br> -->
 
 
-# <b>My GitHub Stats 📊</b>
 
-<!-- Github Stats © github.com/lowlighter--> 
-# [<img alt = "Github Stats" src="https://raw.githubusercontent.com/dagyepong/dagyepong/master/github-metrics.svg" width = 500>](https://github.com/dagyepong)
-
-<!-- 3D Contri Graph © https://github.com/yoshi389111--> 
-# [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/dagyepong/dagyepong/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/dagyepong)
-
-![Profile Views](https://komarev.com/ghpvc/?username=dagyepong&color=blueviolet&style=flat-square&label=Profile+Views)
-
----
-<br>
 
 
 # <b>Connect with me@ :-</b>
