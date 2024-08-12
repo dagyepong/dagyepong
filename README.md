@@ -1,3 +1,16 @@
+A lifelong tech hobbyist with an insatiable curiosity for the digital world, I seamlessly blend my roles as a dedicated dad and a meticulous Cyber Security Analyst. My passion for Free and Open Source Software (FOSS) is not just a professional interest but a philosophy that I imbue in both my work and personal life. I thrive on the thrill of the cybersecurity arena, where each day presents new challenges and opportunities to outsmart potential threats. My journey in tech is fueled by a profound belief in the power of community-driven innovation and the importance of safeguarding our digital future. At home, I bring this same enthusiasm and vigilance, nurturing my children’s curiosity and guiding them to become the next generation of tech-savvy explorers. Whether I’m diving into the latest cybersecurity threat, experimenting with open-source projects, or enjoying precious moments with my family, my life is a dynamic blend of passion, protection, and perpetual learning.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 hey, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Dennis Agyepong
